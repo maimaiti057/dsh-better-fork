@@ -1,0 +1,5 @@
+# dsh-better-fork: Host projection + short editor route.
+# Feature A (fork + official /compact) lives entirely in the browser half.
+- insert:
+    - id: better-fork
+      name: dsh-better-fork
